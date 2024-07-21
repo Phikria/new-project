@@ -1,2 +1,2 @@
-# proeqti
+# new project
 davaleba
